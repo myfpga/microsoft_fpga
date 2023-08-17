@@ -20,6 +20,8 @@ source flat.qsf
               
 set_global_assignment -name TOP_LEVEL_ENTITY top
 
+set_global_assignment -name ENABLE_AUTONOMOUS_PCIE_HIP ON
+
 #============================================================
 # Partitions
 #============================================================
