@@ -27,6 +27,7 @@ set_global_assignment -name TOP_LEVEL_ENTITY top
 set_global_assignment -name SDC_FILE top.sdc
 
 set_global_assignment -name ENABLE_AUTONOMOUS_PCIE_HIP ON
+set_global_assignment -name NUM_PARALLEL_PROCESSORS ALL
 
 # opencl_bsp_ip.qsf contains all necessary Verilog and IP files including 
 # top.v, ip/freeze_wrapper.v and kernel_mem IP that are used for all revision compiles.
