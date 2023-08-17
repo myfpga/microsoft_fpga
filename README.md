@@ -1,5 +1,6 @@
 # Description
-本分支大部分内容与原版一致，修复了一些问题，并添加了linux64下的驱动。
+- 持续更新中
+- 本分支大部分内容与原版一致，修复了一些问题，并添加了linux64下的驱动。
 
 # Microsoft FPGA Board
 Microsoft Catapult FPGA, PCIE Test Demo, On-board usb Blaster and OpenCL BSP 
