@@ -29,3 +29,4 @@ set_global_assignment -name VERILOG_FILE ip/freeze_wrapper.v
 set_global_assignment -name VERILOG_FILE ip/pr_region.v
 set_global_assignment -name QIP_FILE ip/kernel_mem/kernel_mem_mm_bridge_0/kernel_mem_mm_bridge_0.qip
 set_global_assignment -name LAST_QUARTUS_VERSION "18.1.2 Pro Edition"
+set_global_assignment -name ENABLE_AUTONOMOUS_PCIE_HIP ON
