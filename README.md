@@ -1,8 +1,10 @@
+# Description
+本分支大部分内容与原版一致，修复了一些问题，并添加了linux64下的驱动。
+
 # Microsoft FPGA Board
 Microsoft Catapult FPGA, PCIE Test Demo, On-board usb Blaster and OpenCL BSP 
 
 - [x] Catapult V3, Longs Peak
-- [ ] Catapult V2, Storey Peak
 
 ## Milestone
 - [x] PCIE On Chip Memory and DDR4 Test Ok (Windows 10)2022.04.09
